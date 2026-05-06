@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(python _gen_notebook.py)",
+      "Bash(Remove-Item \"g:\\\\broswer download\\\\Kaggle_competitions\\\\orbit_wars\\\\_gen_notebook.py\")"
+    ]
+  }
+}
